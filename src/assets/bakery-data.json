@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "calories": 130,
+    "description": "Four classic chocolate chip cookies",
+    "price": 7.99,
+    "image": "images/anika.png",
+    "type": "Bread",
+    "diet": ["Nut-free", "Gluten-free"],
+    "popularity": "12"
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "calories": 13,
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+    "price": 4.99,
+    "image": "images/aubrey.png",
+    "type": "Pastry",
+    "diet": ["Nut-free", "Dairy-free"],
+    "popularity": "11"
+  },
+  {
+    "name": "Egg Custard Bun",
+    "calories": 1300,
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 2.99,
+    "image": "images/connie.png",
+    "type": "Cake",
+    "diet": ["Gluten-free"],
+    "popularity": "10"
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "calories": 1200,
+    "description": "Two soft steamed buns filled with gooey purple taro filling",
+    "price": 5.99,
+    "image": "images/dylan.png",
+    "type": "Pastry",
+    "diet": ["Nut-free"],
+    "popularity": "9"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "calories": 120,
+    "description": "A rich fudge brownie drizzled with chocolate ganache",
+    "price": 3.99,
+    "image": "images/isaac.png",
+    "type": "Pastry",
+    "diet": [],
+    "popularity": "8"
+  },
+  {
+    "name": "Macarons",
+    "calories": 12,
+    "description": "A box of three macarons in assorted flavors",
+    "price": 4.99,
+    "image": "images/jeff.png",
+    "type": "Bread",
+    "diet": [],
+    "popularity": "7"
+  },
+  {
+    "name": "Multigrain Bread",
+    "calories": 11,
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 4.99,
+    "image": "images/jenny.png",
+    "type": "Cake",
+    "diet": [],
+    "popularity": "6"
+  },
+  {
+    "name": "Croissant",
+    "calories": 1100,
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 2.99,
+    "image": "images/jessie.png",
+    "type": "Bread",
+    "diet": ["Gluten-free"],
+    "popularity": "5"
+  },
+  {
+    "name": "Toast with Butter",
+    "calories": 10,
+    "description": "A slice of toast with a pat of butter",
+    "price": 1.99,
+    "image": "images/kelly.png",
+    "type": "Cake",
+    "diet": ["Gluten-free"],
+    "popularity": "4"
+  },
+  {
+    "name": "Tiramisu",
+    "calories": 900,
+    "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+    "price": 3.99,
+    "image": "images/lauren.png",
+    "type": "Pastry",
+    "diet": [],
+    "popularity": "3"
+  },
+  {
+    "name": "Egg Tart",
+    "calories": 800,
+    "description": "A flaky pastry shell filled with a sweet egg custard",
+    "price": 2.99,
+    "image": "images/melissa.png",
+    "type": "Pastry",
+    "diet": [],
+    "popularity": "2"
+  },
+  {
+    "name": "Everything Bagel",
+    "calories": 700,
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+    "price": 2.99,
+    "image": "images/miku.png",
+    "type": "Cake",
+    "diet": [],
+    "popularity": "1"
+  }
+]

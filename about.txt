@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Vesper Libre
+- Font Author: Copyright (c) 2007, Robert Keller (www.motaitalic.com)
+- Font Source: http://fonts.gstatic.com/s/vesperlibre/v19/bx6CNxyWnf-uxPdXDHUD_Rd4D0-N2qIWVQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

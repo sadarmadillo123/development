@@ -32,8 +32,6 @@ function App() {
 
   function matchesTypeFilter(field) {
     const filterFieldFunc = (item) => {
-      // console.log(field);
-      // console.log(item.type);
       // All Items Shown
       if (field === "All") {
         return true;
@@ -60,7 +58,6 @@ function App() {
 
   function matchesDietFilter(field) {
     const filterFieldFunc = (item) => {
-      // console.log(item.diet);
       // All Items Shown
       if (field === "All") {
         return true;

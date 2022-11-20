@@ -12,7 +12,6 @@ export default function CheckboxLabels(props) {
   const handleClick = (event) => {
     var newCheck = [...checkedLabels];
     if (event.target.checked) {
-      console.log(event.target.value);
       newCheck[parseInt(event.currentTarget.getAttribute("id"))] = event.target.value;
     } else {
       newCheck[parseInt(event.currentTarget.getAttribute("id"))] = "All";

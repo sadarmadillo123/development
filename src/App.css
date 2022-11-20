@@ -32,7 +32,7 @@ body {
 }
 
 .left-page {
-  width: 18rem;
+  width: 15rem;
   margin-right: 3rem;
   display: flex;
   flex-direction: column;
@@ -66,4 +66,8 @@ body {
   max-height: 2700px;
   width: auto;
   max-width: 290px;
+}
+
+h2 {
+  font-size: 22px;
 }

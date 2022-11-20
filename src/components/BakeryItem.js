@@ -43,7 +43,7 @@ export default function BakeryItem(props) {
                 props.removeFromCart(props.item);
               }}
             >
-              Remove Item
+              Remove
             </Button>
             <Button
               size="medium"
@@ -53,7 +53,7 @@ export default function BakeryItem(props) {
                 props.addToCart(props.item);
               }}
             >
-              Add Item
+              Add
             </Button>
           </CardActions>
         </div>
